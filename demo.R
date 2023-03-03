@@ -1,4 +1,3 @@
-setwd('C:/Users/annie/OneDrive - pku.edu.cn/projects/3. Finished/online fda/Code-Github')
 source('data_gene.R')
 source('FNS_helper.R')
 source('FNS_main.R')
